@@ -13,6 +13,7 @@ using namespace std;
     ios::sync_with_stdio(false); \
     cin.tie(nullptr);
 
+// in progress
 int main()
 {
     author_EzzEldine
@@ -35,8 +36,6 @@ int main()
         cin >> q;
         while (q--)
         {
-            
         }
-        
     }
 }
